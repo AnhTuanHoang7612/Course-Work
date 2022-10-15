@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/drawable/bg_edittext.xml" value="0.198" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/drawable/bg_item_trip.xml" value="0.198" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/drawable/bg_type_expense.xml" value="0.198" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.198" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/layout/activity_add_expense.xml" value="0.17249240121580547" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/layout/activity_edit_trip.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/layout/fragment_home.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/layout/fragment_search.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/layout/fragment_trip.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/layout/fragment_upload.xml" value="0.33" />
+        <entry key="..\:/Users/HaT7/AndroidStudioProjects/expense_manager/app/src/main/res/layout/item_trip.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_edittext.xml" value="0.1625" />
+        <entry key="app/src/main/res/drawable/bg_item_trip.xml" value="0.1625" />
+        <entry key="app/src/main/res/drawable/bg_type_expense.xml" value="0.1625" />
+        <entry key="app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.1625" />
+        <entry key="app/src/main/res/layout-v26/item_trip.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_add_expense.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_edit.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_edit_trip.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_expense_detail.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20972137451171877" />
+        <entry key="app/src/main/res/layout/content_edit.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_edit.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1340057373046874" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_trip.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_upload.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/item_all_trip.xml" value="0.2588740030924479" />
+        <entry key="app/src/main/res/layout/item_expense.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/item_search.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/item_trip.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/menu/another_menu.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/menu/menu_bottom.xml" value="0.24479166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
